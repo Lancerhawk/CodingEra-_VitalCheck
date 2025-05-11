@@ -68,6 +68,16 @@ npm install -D @eslint/js@^9.25.0 \
   vite@^6.3.5
 ```
 
+### 🚀 Start the Frontend Application
+
+After installing dependencies, you can run the frontend application using:
+
+```bash
+npm run dev
+```
+
+---
+
 ## 🧠 Backend Dependencies
 
 These are needed to run the Express server and handle authentication, mailing, and database communication.
@@ -93,6 +103,16 @@ npm install bcrypt@^5.1.1 \
   nodemailer@^7.0.3
 ```
 
+### 🚀 Start the Backend Application
+
+You can start the backend application using `nodemon` for hot reloading:
+
+```bash
+nodemon server.js
+```
+
+---
+
 ## 🤖 AI Dependencies
 
 These are Python dependencies required to run the AI model and expose endpoints with Flask.
@@ -114,7 +134,16 @@ pip install tensorflow>=2.0.0 \
   scikit-learn>=0.24.0
 ```
 
+### 🚀 Start the AI Application
+
+You can start the AI application using:
+
+```bash
+python server.py
+```
+
 ---
+
 > ℹ️ Make sure to run the install commands in the appropriate directories:
 > - `frontend/` folder for frontend dependencies
 > - `backend/` folder for backend dependencies
