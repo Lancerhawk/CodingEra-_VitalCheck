@@ -148,3 +148,9 @@ python server.py
 > - `frontend/` folder for frontend dependencies
 > - `backend/` folder for backend dependencies
 > - `AI/` folder for AI dependencies
+>
+> - Download these Datasets and Put them inside AI folder under dataset folder like this:
+> - /dataset/Xrays_ChestTuberclosis
+> - /dataset/Skin_DetectionAi
+> - /dataset/MRI_BrainTumor
+> - /dataset/CTScans_LungCancer
