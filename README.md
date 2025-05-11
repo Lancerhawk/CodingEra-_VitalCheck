@@ -150,7 +150,7 @@ python server.py
 > - `AI/` folder for AI dependencies
 >
 > ℹ️ Download these Datasets and Put them inside AI folder under dataset folder like this:
-> - /dataset/Xrays_ChestTuberclosis
-> - /dataset/Skin_DetectionAi
-> - /dataset/MRI_BrainTumor
-> - /dataset/CTScans_LungCancer
+> - /dataset/Xrays_ChestTuberclosis -> https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
+> - /dataset/Skin_DetectionAi -> https://www.kaggle.com/datasets/shubhamgoel27/dermnet
+> - /dataset/MRI_BrainTumor -> https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+> - /dataset/CTScans_LungCancer -> https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset
